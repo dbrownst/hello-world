@@ -1,3 +1,4 @@
 # hello-world
 intro exercise
-Hered are some additional changes
+
+Here are some additional changes
